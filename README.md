@@ -7,6 +7,11 @@ A simple Android app that demonstrates how to send notifications and handle clic
 - Clicking the notification opens a ResultActivity displaying the message.
 - Demonstrates PendingIntent, NotificationCompat, and NotificationChannel.
 
+## Screenshots
+![MainActivity](screenshots/mainActivity.png)
+![Notification](screenshots/notification.png)
+![ResultActivity](screenshots/resultActivity.png)
+
 ## Installation
 1. Clone this repository: git clone https://github.com/s4ndrang/notificationAndroid.git
 2. Open the project in Android Studio.
