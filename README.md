@@ -8,9 +8,17 @@ A simple Android app that demonstrates how to send notifications and handle clic
 - Demonstrates PendingIntent, NotificationCompat, and NotificationChannel.
 
 ## Screenshots
-![MainActivity](screenshots/mainActivity.png)
-![Notification](screenshots/notification.png)
-![ResultActivity](screenshots/resultActivity.png)
+<p float="left">
+  <a href="screenshots/mainActivity.png">
+    <img src="screenshots/mainActivity.png" alt="MainActivity" width="200"/>
+  </a>
+  <a href="screenshots/notification.png">
+    <img src="screenshots/notification.png" alt="Notification" width="200"/>
+  </a>
+  <a href="screenshots/resultActivity.png">
+    <img src="screenshots/resultActivity.png" alt="ResultActivity" width="200"/>
+  </a>
+</p>
 
 ## Installation
 1. Clone this repository: git clone https://github.com/s4ndrang/notificationAndroid.git
